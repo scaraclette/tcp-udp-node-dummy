@@ -1,0 +1,4 @@
+Event loop: single threaded cannot happen in parallel. 
+
+Passing command line arguments:
+node app.js name=scarlett

@@ -1,0 +1,5 @@
+Node TODO:
+1. Understand event loop in Node
+2. Understand promises & async/await
+3. Understand buffer
+4. Implmenet HTTP protocol on top of TCP (similar to assignment 2)
