@@ -1,6 +1,6 @@
 var net = require('net');
 
-var host_name = 'www.example.com';
+var host_name = 'www.google.com';
 var web_request = `GET / HTTP/1.1\nHost: ${host_name}\nConnection: close\r\n\r\n`;
 
 var client = new net.Socket();
